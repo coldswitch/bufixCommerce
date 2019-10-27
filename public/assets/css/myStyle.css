@@ -1,0 +1,19 @@
+#main {
+  margin-top: 15%;
+  text-align: center;
+}
+
+#main2 {
+  margin-top: 10%;
+  text-align: center;
+}
+
+#myForm {
+  width: 60%;
+  border-radius: 10px;
+  padding-left: 30px;
+}
+
+#form-div {
+  margin-left: 25%;
+}
